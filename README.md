@@ -10,7 +10,7 @@ An application built to allow the user to add books to a list and to see the det
 
 The project allows users to add information about different books to be saved on the reading list. The user can click on each of the books on the list to see the details. Below is a GIF of the application in action.
 
-![employee-directory](./public/assets/images/employee-directory.gif)
+![reading-list](./client/src/images/reading-list.gif)
 
 ## Why is the project useful
 
